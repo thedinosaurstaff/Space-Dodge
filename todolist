@@ -1,0 +1,11 @@
+Space Dodge To Do List
+
+1) Canvas/Screen Width of the game
+2) Spaceship movement when pressing Mouse Left Button. It must be forward or back when you press the button.
+3) Asteroid movement. Focusing on one of the spawn for now
+4) Add collision. When the Player hit the Asteroid,the Player must disappear
+5) Make the asteroids spawn from the four spawn points,one at time (you must add a spawn delay timer)
+6) Set the speed of the asteroids,it must be random and increase on time.
+7) Adding effects
+8) Adding a Game Over screen with points earned,high score and (if you want,but recommended) share the results on FB and Twitter,retry and main menu button.
+9) adding a Main Menù with Play and Credits button
